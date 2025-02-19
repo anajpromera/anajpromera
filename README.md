@@ -1,77 +1,8 @@
-  <style>
-    /* Gradiente de fundo para o perfil */
-    body {
-      background: linear-gradient(135deg, #8A2BE2, #9B30FF); /* Roxos vibrantes */
-      font-family: 'Arial', sans-serif;
-      color: #fff;
-      padding: 20px;
-    }
 
-    /* Estilo para título principal */
-    h1 {
-      color: #fff;
-      font-size: 3em;
-      text-align: center;
-      padding-bottom: 10px;
-      border-bottom: 2px solid #fff;
-    }
-
-    /* Estilo para subtítulos */
-    h2 {
-      color: #fff;
-      font-size: 2em;
-      margin-top: 20px;
-    }
-
-    h3 {
-      color: #fff;
-      font-size: 1.5em;
-    }
-
-    /* Estilo para parágrafos */
-    p {
-      font-size: 16px;
-      line-height: 1.6;
-      color: #ddd;
-    }
-
-    /* Efeito de hover nos links */
-    a {
-      color: #9B30FF;
-      text-decoration: none;
-    }
-
-    a:hover {
-      color: #8A2BE2;
-      text-decoration: underline;
-    }
-
-    /* Efeito de hover nas listas de habilidades */
-    li {
-      margin-bottom: 10px;
-      transition: 0.3s ease-in-out;
-    }
-
-    li:hover {
-      color: #fff;
-      background-color: #7A1FA1;
-      padding: 5px;
-      border-radius: 5px;
-    }
-
-    /* Colocando uma foto de perfil */
-    .profile-image {
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      margin: 20px auto;
-      display: block;
-      border: 5px solid #fff;
-    }
-  </style>
-</head>
 <body>
   <h1>Ana Júlia Pereira Romera</h1>
+  <h1> A mais mais da FAcul!>
+    <h2> Vai tomandooo<\h2>
   <h2>🎓 Estudante de Ciência da Computação</h2>
   <h3>Universidade de Marília</h3>
 
@@ -125,3 +56,4 @@
 
 
 # I loved your profile, very qualified professional 💝
+![GIF Animado](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczUwOXBobjVzN2UzZDFhaDd2eDdlbjh1NnhncDY4eHptaXExam0zeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0saxF4eNE7x2fEqrN6/giphy.gif)
