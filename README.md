@@ -113,6 +113,7 @@
   <ul>
     <li>Email: <a href="mailto:anajuliapromera@gmail.com">anajuliapromera@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/anajuliapromera">LinkedIn de Ana Júlia</a></li>
+    <li>Endereço: Favela da roçinha</li>
   </ul>
 
   <hr>
@@ -121,3 +122,6 @@
   <img src="https://avatars.githubusercontent.com/u/seu-usuario" alt="Foto de perfil" class="profile-image">
 </body>
 </html>
+
+
+# I loved your profile, very qualified professional 💝
